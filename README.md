@@ -15,6 +15,12 @@ UC Berkeley
 
 
 
+## Offerings
+
+1. [Fall 2025](fall-2025)
+
+
+
 
 ## Overview
 
@@ -22,7 +28,7 @@ An introduction to probability, emphasizing concepts and applications. Condition
 
 ## Logistics
 
-Three hours of Lecture per week for 15 weeks.  Five hours of Lecture per week for 8 weeks.
+Three hours of lecture and two hours of discussion per week. Six hours of lecture and four hours of discussion per week for 8 weeks. 
 
 ## Prerequisites
 
